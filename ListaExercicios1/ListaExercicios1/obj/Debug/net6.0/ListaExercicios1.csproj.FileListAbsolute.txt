@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\bin\Debug\net6.0\ListaExercicios1.exe
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\bin\Debug\net6.0\ListaExercicios1.deps.json
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\bin\Debug\net6.0\ListaExercicios1.runtimeconfig.json
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\bin\Debug\net6.0\ListaExercicios1.dll
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\bin\Debug\net6.0\ListaExercicios1.pdb
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.dll
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\refint\ListaExercicios1.dll
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.pdb
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ListaExercicios1.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ListaExercicios1\ListaExercicios1\obj\Debug\net6.0\ref\ListaExercicios1.dll
